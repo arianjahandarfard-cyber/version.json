@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2.20",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.2.2.20.zip",
-  "releaseNotes": "Switched to Azure Blob hosting for updates."
+  "version": "2.3.0.0",
+  "releaseNotes": "Version 2.3.0.0",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.0.0.zip"
 }

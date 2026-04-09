@@ -1,7 +1,7 @@
 {
-  "releaseNotes": "Version 2.3.2.1",
   "version": "2.3.2.1",
-  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.3.2.1.zip",
   "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.2.1.msi",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.2.1.zip"
+  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.3.2.1.zip",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.2.1.zip",
+  "releaseNotes": "Version 2.3.2.1"
 }

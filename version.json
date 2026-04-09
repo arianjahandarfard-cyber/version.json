@@ -1,5 +1,5 @@
 {
   "version": "2.2.2.20",
-  "downloadUrl": "https://github.com/arianjahandarfard-cyber/Arian-Jahandarfards-MS-Project-Add-in/releases/download/v2.2.2.20/AJAddIn-v2.2.2.20.zip",
-  "releaseNotes": "First automated build release."
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.2.2.20.zip",
+  "releaseNotes": "Switched to Azure Blob hosting for updates."
 }

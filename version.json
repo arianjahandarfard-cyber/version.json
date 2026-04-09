@@ -1,8 +1,7 @@
 {
-  "cabUrl": "https://ajtools.blob.core.windows.net/releases/cab1.cab",
-  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.1.9.msi",
-  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.3.1.9.zip",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.1.9.zip",
-  "releaseNotes": "Version 2.3.1.9",
-  "version": "2.3.1.9"
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.2.0.zip",
+  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.3.2.0.zip",
+  "version": "2.3.2.0",
+  "releaseNotes": "Version 2.3.2.0",
+  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.2.0.msi"
 }

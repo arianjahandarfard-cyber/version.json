@@ -1,5 +1,6 @@
 {
-  "releaseNotes": "Version 2.3.1.3",
+  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.1.3.msi",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.1.3.zip",
   "version": "2.3.1.3",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.3.1.3.zip"
+  "releaseNotes": "Version 2.3.1.3"
 }

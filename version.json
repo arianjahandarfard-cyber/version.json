@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.4.0.0.zip",
-  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.4.0.0.zip",
-  "releaseNotes": "Version 2.4.0.0",
-  "version": "2.4.0.0",
-  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.4.0.0.msi"
+  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.4.0.1.msi",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v2.4.0.1.zip",
+  "releaseNotes": "Version 2.4.0.1",
+  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v2.4.0.1.zip",
+  "version": "2.4.0.1"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "3.2.0.0",
+  "version": "3.2.0.1",
   "buildDate": "2026-04-24",
-  "downloadZipFile": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.0.zip",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.0.zip",
-  "releaseNotes": "Version 3.2.0.0",
+  "downloadZipFile": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.1.zip",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.1.zip",
+  "releaseNotes": "Version 3.2.0.1",
   "releaseNotesUrl": "",
-  "sha256": "785BEF09E55C379A9EFE419761416700107CA20011D4F1B325A38CCA2D936130"
+  "sha256": "E283D16A5FFE978A49571C031911992D04ABD5C17DA016CB46F1BFC1217760F8"
 }

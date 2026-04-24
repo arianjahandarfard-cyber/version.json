@@ -1,7 +1,9 @@
 {
-  "msiUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v3.0.0.3.msi",
-  "version": "3.0.0.3",
-  "releaseNotes": "Version 3.0.0.3",
-  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJAddIn-v3.0.0.3.zip",
-  "installerUrl": "https://ajtools.blob.core.windows.net/releases/AJToolsInstaller-v3.0.0.3.zip"
+  "version": "3.2.0.0",
+  "buildDate": "2026-04-24",
+  "downloadZipFile": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.0.zip",
+  "downloadUrl": "https://ajtools.blob.core.windows.net/releases/AJTools-3.2.0.0.zip",
+  "releaseNotes": "Version 3.2.0.0",
+  "releaseNotesUrl": "",
+  "sha256": "785BEF09E55C379A9EFE419761416700107CA20011D4F1B325A38CCA2D936130"
 }
